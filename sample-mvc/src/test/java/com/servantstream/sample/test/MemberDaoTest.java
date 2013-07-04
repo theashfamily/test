@@ -1,4 +1,4 @@
-package com.servantstream.pizzashop.test;
+package com.servantstream.sample.test;
 
 import java.util.List;
 
